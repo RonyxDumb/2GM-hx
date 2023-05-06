@@ -94,7 +94,7 @@ class MenuState extends FlxState
 	function sourceClick()
 	{
 		// Sito per il Codice Sorgente su Github
-		FlxG.openURL("https://github.com/RonyxDumb/La-2-Guerra-Mondiale"); // Github
+		FlxG.openURL("https://github.com/RonyxDumb/2GM-hx"); // Github
 	}
 
 	override function update(elpased:Float)
