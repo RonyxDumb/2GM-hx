@@ -12,8 +12,7 @@ Questo proggetto è nato come Presentazione Scolastica sull'argomento
 della "2 Guerra Mondiale", in cui man mano che il docente spiega
 l'argomento, con gli appunti presi, verranno riportati qui sottoforma
 di presentazione. Questo proggetto usa il Supporto ai Video (.MP4) dal
-progetto su Github (https://github.com/datee/HaxeVLC)[con alcune parti
-aggiustate per il corretto funzionamento].
+progetto su Github (https://github.com/datee/HaxeVLC).
 
 ### INFO-DEV (Informazioni per lo Sviluppatore)
 Questo proggetto è stato programmato con HaxeFlixel (Haxe, '.hx'), non
@@ -29,3 +28,5 @@ Inoltre, per essere pubblicato su Github, è stato già preparato il file
     [08/03/2023] Ancora non rilasciata, ma risolti alcuni BUG e perfezionate le slide.
                  Rimossi i segreti, poichè esso è una presentazione S-E-R-I-A
 --------------------------------------------------------------------------------------------------------
+2.0.1 [06/05/2023] Rilascio del codice sorgente sulla piattaforma Github.
+                   Nuovi cambiamenti, Nuovo Menu e miglioramento della struttura del progetto.
