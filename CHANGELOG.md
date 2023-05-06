@@ -17,8 +17,9 @@ di presentazione. Questo proggetto usa il Supporto ai Video (.MP4) dal
 progetto su Github (https://github.com/datee/HaxeVLC).
 
 ### INFO-DEV (Informazioni per lo Sviluppatore)
-Questo proggetto è stato programmato con HaxeFlixel (Haxe, '.hx'), non
-è protetto da nessuna licensa (poichè nemmeno ne necessita).
+Questo progetto è stato programmato con HaxeFlixel (Haxe, '.hx'), non
+è inclusa alcuna licensa (poichè non vengono utilizzati materiali Copyright
+e non si intende proteggere alcun dato di questo Codice Sorgente).
 Inoltre, per essere pubblicato su Github, è stato già preparato il file
 "gitignore" in cui verrano escluse determinate.
 
