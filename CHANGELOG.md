@@ -9,8 +9,8 @@
 "CHANGELOG" è un file dove verranno scritte tutti i cambiamenti 
 da una versione all'altra (Aggiornamenti).
 
-### GENERALE (Proggetto, Info)
-Questo proggetto è nato come Presentazione Scolastica sull'argomento 
+### GENERALE (Progetto, Info)
+Questo progetto è nato come Presentazione Scolastica sull argomento 
 della "2 Guerra Mondiale", in cui man mano che il docente spiega
 l'argomento, con gli appunti presi, verranno riportati qui sottoforma
 di presentazione. Questo proggetto usa il Supporto ai Video (.MP4) dal
