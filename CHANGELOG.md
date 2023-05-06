@@ -32,3 +32,4 @@ Inoltre, per essere pubblicato su Github, è stato già preparato il file
 --------------------------------------------------------------------------------------------------------
 2.0.1 [06/05/2023] Rilascio del codice sorgente sulla piattaforma Github.
                    Nuovi cambiamenti, Nuovo Menu e miglioramento della struttura del progetto.
+--------------------------------------------------------------------------------------------------------
