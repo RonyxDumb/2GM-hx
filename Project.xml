@@ -3,7 +3,7 @@
 
 	<!-- _________________________ Impostazioni dell'APP _________________________ -->
 
-	<app title="2 Guerra Mondiale (By Francesco Pio Pipino)" file="2GM" main="Main" version="2.0" company="Francesco Pio Pipino" />
+	<app title="2 Guerra Mondiale (By Francesco Pio Pipino)" file="2GM" main="Main" version="2.0.1" company="Francesco Pio Pipino" />
 	<app preloader="flixel.system.FlxPreloader" /> <!-- Html5 solo soletto -->
 	<set name="SWF_VERSION" value="11.8" />
 
