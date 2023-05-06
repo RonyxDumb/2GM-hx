@@ -28,7 +28,7 @@ Inoltre, per essere pubblicato su Github, è stato già preparato il file
 --------------------------------------------------------------------------------------------------------
 2.0 [13/02/2023] !NON-RILASCIATA! (Seconda Versione, risolti molti Bug di Programmazione).
     [08/03/2023] Ancora non rilasciata, ma risolti alcuni BUG e perfezionate le slide.
-                 Rimossi i segreti, poichè esso è una presentazione S-E-R-I-A
+                 Rimossi i segreti, poichè essa è una presentazione S-E-R-I-A
 --------------------------------------------------------------------------------------------------------
 2.0.1 [06/05/2023] Rilascio del codice sorgente sulla piattaforma Github.
                    Nuovi cambiamenti, Nuovo Menu e miglioramento della struttura del progetto.
