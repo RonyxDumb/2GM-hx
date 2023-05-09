@@ -24,7 +24,7 @@ class MenuState extends FlxState
 	override function create()
 	{
 		// musichetta
-		FlxG.sound.playMusic(Paths.music("menu_miss_main"), 1, true);
+		// FlxG.sound.playMusic(Paths.music("menu_miss_main"), 1, true);
 		FlxG.sound.music.fadeIn(2);
 
 		// sfondo rosso
